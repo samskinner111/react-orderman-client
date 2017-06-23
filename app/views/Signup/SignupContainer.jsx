@@ -14,7 +14,7 @@ import React, { Component } from 'react';
  */
 export default class SignupContainer extends Component {
   render() {
-    return <h1>You know what to do ;)</h1>;
+    return <h1>You knows what to do ;)</h1>;
   }
 }
 
